@@ -2,7 +2,7 @@
 candies = ['twix', 'smarties', 'reeses pieces', 'snickers', 'three musketeers', 'milky way', 'swedish fish', nil, 1, 2]
 ```
 
- ### tasks
+### Tasks
 
  1. Add in another twix as the last element of the array
  2. Add in butterfinger as the 30th element of the candies array
