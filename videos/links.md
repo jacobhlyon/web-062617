@@ -7,4 +7,4 @@
 
 ## Module 2
 1. [Sinatra Forms](https://youtu.be/DXsqmUAhup8)
-2. Sinatra AR Complex Forms(video coming soon) | [Code](https://github.com/learn-co-curriculum/sinatra-ar-forms-and-associations-web-062617)
+2. [Sinatra AR Complex Forms](https://www.youtube.com/watch?v=x11CLkrbhTg) | [Code](https://github.com/learn-co-curriculum/sinatra-ar-forms-and-associations-web-062617)
